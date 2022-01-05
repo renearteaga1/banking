@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # banking
 Front end Bad Banking Application
->>>>>>> 18d949df187ff4c8a985baddff3261fe30491ada
+
